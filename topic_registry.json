@@ -1,0 +1,396 @@
+{
+  "0": {
+    "topic_id": 0,
+    "label": "machine learning is_machine learning_intelligence has revolutionized",
+    "keywords": [
+      "machine learning is",
+      "machine learning",
+      "intelligence has revolutionized",
+      "learning algorithms can",
+      "ai",
+      "neural networks",
+      "algorithms can now",
+      "machine learning algorithms",
+      "algorithms can",
+      "neural networks are"
+    ],
+    "representative_docs": [
+      "Artificial intelligence has revolutionized many industries in recent years.",
+      "Machine learning algorithms can now process vast amounts of data quickly.",
+      "Deep learning models have achieved remarkable results in image recognition.",
+      "Neural networks are inspired by the human brain's structure.",
+      "Data processing capabilities have grown exponentially with AI advancements."
+    ],
+    "document_count": 1,
+    "created_date": "2025-07-15T00:51:54.280328"
+  },
+  "1": {
+    "topic_id": 1,
+    "label": "to combat climate_climate change_rising global temperatures",
+    "keywords": [
+      "to combat climate",
+      "climate change",
+      "rising global temperatures",
+      "reducing carbon emissions",
+      "warming beyond predictions",
+      "weather patterns carbon",
+      "reducing carbon",
+      "warming beyond",
+      "climate",
+      "renewable energy"
+    ],
+    "representative_docs": [
+      "Climate change is one of the most pressing issues of our time.",
+      "Rising global temperatures are causing ice caps to melt rapidly.",
+      "Sea levels are increasing, threatening coastal communities worldwide.",
+      "Renewable energy sources are crucial for reducing carbon emissions.",
+      "Climate scientists use advanced models to predict future weather patterns."
+    ],
+    "document_count": 1,
+    "created_date": "2025-07-15T00:51:54.280489"
+  },
+  "2": {
+    "topic_id": 2,
+    "label": "the immune response_human immune system_the human immune",
+    "keywords": [
+      "the immune response",
+      "human immune system",
+      "the human immune",
+      "immune response involves",
+      "the immune system",
+      "threats the immune",
+      "the immune",
+      "immune system",
+      "adaptive immunity",
+      "immune system is"
+    ],
+    "representative_docs": [
+      "The human immune system is incredibly complex and sophisticated.",
+      "White blood cells patrol the body looking for foreign invaders.",
+      "Antibodies are proteins that help neutralize harmful pathogens.",
+      "Vaccines work by training the immune system to recognize threats.",
+      "The immune response involves both innate and adaptive immunity."
+    ],
+    "document_count": 1,
+    "created_date": "2025-07-15T00:51:54.280724"
+  },
+  "3": {
+    "topic_id": 3,
+    "label": "quantum computing_quantum computers_quantum computers to",
+    "keywords": [
+      "quantum computing",
+      "quantum computers",
+      "quantum computers to",
+      "allows quantum computers",
+      "quantum computing represents",
+      "qubits",
+      "qubits can",
+      "quantum entanglement",
+      "quantum systems",
+      "this allows quantum"
+    ],
+    "representative_docs": [
+      "Quantum computing represents a fundamental shift in computation.",
+      "Qubits can exist in multiple states simultaneously through superposition.",
+      "This allows quantum computers to solve certain problems exponentially faster.",
+      "However, quantum systems are extremely sensitive to environmental interference.",
+      "Quantum entanglement enables secure communication protocols."
+    ],
+    "document_count": 1,
+    "created_date": "2025-07-15T00:51:54.281041"
+  },
+  "4": {
+    "topic_id": 4,
+    "label": "mortgage rates have_the housing market_volatility this quarter",
+    "keywords": [
+      "mortgage rates have",
+      "the housing market",
+      "volatility this quarter",
+      "mortgage rates",
+      "rate mortgage rates",
+      "quarter interest rates",
+      "rates have been",
+      "the federal reserve",
+      "the stock market",
+      "down inflation remains"
+    ],
+    "representative_docs": [
+      "The stock market experienced significant volatility this quarter.",
+      "Interest rates have been raised by the Federal Reserve.",
+      "The housing market shows signs of cooling down.",
+      "Inflation remains above the central bank's target rate.",
+      "Mortgage rates have reached their highest level in years."
+    ],
+    "document_count": 1,
+    "created_date": "2025-07-15T00:52:32.211793"
+  },
+  "5": {
+    "topic_id": 5,
+    "label": "cryptocurrency adoption continues_cryptocurrency adoption_dominate the cryptocurrency",
+    "keywords": [
+      "cryptocurrency adoption continues",
+      "cryptocurrency adoption",
+      "dominate the cryptocurrency",
+      "ethereum dominate the",
+      "the cryptocurrency market",
+      "and ethereum dominate",
+      "cryptocurrency market",
+      "cryptocurrency",
+      "the cryptocurrency",
+      "revolutionizing financial transactions"
+    ],
+    "representative_docs": [
+      "Cryptocurrency adoption continues to grow among institutional investors.",
+      "Digital payment systems are revolutionizing financial transactions.",
+      "Bitcoin and Ethereum dominate the cryptocurrency market."
+    ],
+    "document_count": 1,
+    "created_date": "2025-07-15T00:52:32.213184"
+  },
+  "6": {
+    "topic_id": 6,
+    "label": "machine learning is_machine learning_intelligence has revolutionized",
+    "keywords": [
+      "machine learning is",
+      "machine learning",
+      "intelligence has revolutionized",
+      "learning algorithms can",
+      "ai",
+      "neural networks",
+      "algorithms can now",
+      "machine learning algorithms",
+      "algorithms can",
+      "neural networks are"
+    ],
+    "representative_docs": [
+      "Artificial intelligence has revolutionized many industries in recent years.",
+      "Machine learning algorithms can now process vast amounts of data quickly.",
+      "Deep learning models have achieved remarkable results in image recognition.",
+      "Neural networks are inspired by the human brain's structure.",
+      "Data processing capabilities have grown exponentially with AI advancements."
+    ],
+    "document_count": 1,
+    "created_date": "2025-07-15T11:24:25.693392"
+  },
+  "7": {
+    "topic_id": 7,
+    "label": "to combat climate_climate change_rising global temperatures",
+    "keywords": [
+      "to combat climate",
+      "climate change",
+      "rising global temperatures",
+      "reducing carbon emissions",
+      "warming beyond predictions",
+      "weather patterns carbon",
+      "reducing carbon",
+      "warming beyond",
+      "climate",
+      "renewable energy"
+    ],
+    "representative_docs": [
+      "Climate change is one of the most pressing issues of our time.",
+      "Rising global temperatures are causing ice caps to melt rapidly.",
+      "Sea levels are increasing, threatening coastal communities worldwide.",
+      "Renewable energy sources are crucial for reducing carbon emissions.",
+      "Climate scientists use advanced models to predict future weather patterns."
+    ],
+    "document_count": 1,
+    "created_date": "2025-07-15T11:24:25.693586"
+  },
+  "8": {
+    "topic_id": 8,
+    "label": "the immune response_human immune system_the human immune",
+    "keywords": [
+      "the immune response",
+      "human immune system",
+      "the human immune",
+      "immune response involves",
+      "the immune system",
+      "threats the immune",
+      "the immune",
+      "immune system",
+      "adaptive immunity",
+      "immune system is"
+    ],
+    "representative_docs": [
+      "The human immune system is incredibly complex and sophisticated.",
+      "White blood cells patrol the body looking for foreign invaders.",
+      "Antibodies are proteins that help neutralize harmful pathogens.",
+      "Vaccines work by training the immune system to recognize threats.",
+      "The immune response involves both innate and adaptive immunity."
+    ],
+    "document_count": 1,
+    "created_date": "2025-07-15T11:24:25.693829"
+  },
+  "9": {
+    "topic_id": 9,
+    "label": "quantum computing_quantum computers_quantum computers to",
+    "keywords": [
+      "quantum computing",
+      "quantum computers",
+      "quantum computers to",
+      "allows quantum computers",
+      "quantum computing represents",
+      "qubits",
+      "qubits can",
+      "quantum entanglement",
+      "quantum systems",
+      "this allows quantum"
+    ],
+    "representative_docs": [
+      "Quantum computing represents a fundamental shift in computation.",
+      "Qubits can exist in multiple states simultaneously through superposition.",
+      "This allows quantum computers to solve certain problems exponentially faster.",
+      "However, quantum systems are extremely sensitive to environmental interference.",
+      "Quantum entanglement enables secure communication protocols."
+    ],
+    "document_count": 1,
+    "created_date": "2025-07-15T11:24:25.694157"
+  },
+  "10": {
+    "topic_id": 10,
+    "label": "mortgage rates have_the housing market_volatility this quarter",
+    "keywords": [
+      "mortgage rates have",
+      "the housing market",
+      "volatility this quarter",
+      "mortgage rates",
+      "rate mortgage rates",
+      "quarter interest rates",
+      "rates have been",
+      "the federal reserve",
+      "the stock market",
+      "down inflation remains"
+    ],
+    "representative_docs": [
+      "The stock market experienced significant volatility this quarter.",
+      "Interest rates have been raised by the Federal Reserve.",
+      "The housing market shows signs of cooling down.",
+      "Inflation remains above the central bank's target rate.",
+      "Mortgage rates have reached their highest level in years."
+    ],
+    "document_count": 1,
+    "created_date": "2025-07-15T11:24:53.765281"
+  },
+  "11": {
+    "topic_id": 11,
+    "label": "cryptocurrency adoption continues_cryptocurrency adoption_dominate the cryptocurrency",
+    "keywords": [
+      "cryptocurrency adoption continues",
+      "cryptocurrency adoption",
+      "dominate the cryptocurrency",
+      "ethereum dominate the",
+      "the cryptocurrency market",
+      "and ethereum dominate",
+      "cryptocurrency market",
+      "cryptocurrency",
+      "the cryptocurrency",
+      "revolutionizing financial transactions"
+    ],
+    "representative_docs": [
+      "Cryptocurrency adoption continues to grow among institutional investors.",
+      "Digital payment systems are revolutionizing financial transactions.",
+      "Bitcoin and Ethereum dominate the cryptocurrency market."
+    ],
+    "document_count": 1,
+    "created_date": "2025-07-15T11:24:53.765906"
+  },
+  "12": {
+    "topic_id": 12,
+    "label": "the lender may_lender may_monthly debt obligations",
+    "keywords": [
+      "the lender may",
+      "lender may",
+      "monthly debt obligations",
+      "student loan",
+      "monthly debt",
+      "debt obligations",
+      "the credit report",
+      "loans",
+      "prior to closing",
+      "the monthly payment"
+    ],
+    "representative_docs": [
+      "For DU loan casefiles, if a revolving debt is provided on the loan application without a monthly payment amount, DU will use the greater of $10 or 5% of the outstanding balance as the monthly payment when calculating the total debt-to-income ratio.",
+      "Student Loans\n    If a monthly student loan payment is provided on the credit report, the lender may use that amount for qualifying purposes.",
+      "If the credit report does not reflect the correct monthly payment, the lender may use the monthly payment that is on the student loan documentation (the most recent student loan statement) to qualify the borrower.",
+      "If the credit report does not provide a monthly payment for the student loan, or if the credit report shows $0 as the monthly payment, the lender must determine the qualifying monthly payment using one of the options below.",
+      "If the borrower is on an income-driven payment plan, the lender may obtain student loan documentation to verify the actual monthly payment is $0."
+    ],
+    "document_count": 1,
+    "created_date": "2025-07-15T11:30:53.090645"
+  },
+  "13": {
+    "topic_id": 13,
+    "label": "recent related announcements_recently issued announcements_issued announcements related",
+    "keywords": [
+      "recent related announcements",
+      "recently issued announcements",
+      "issued announcements related",
+      "related announcements the",
+      "related announcements",
+      "this topic announcements",
+      "issued announcements",
+      "issued announcements that",
+      "issue date announcement",
+      "announcement sel 2020"
+    ],
+    "representative_docs": [
+      "Recent Related Announcements\n    The table below provides references to recently issued Announcements that are related to this topic.",
+      "Announcements and Release Notes\tIssue Date\n    Announcement SEL-2022-04\tMay 04, 2022\n    Announcement SEL-2020-07\tDecember 16, 2020\n    Announcement SEL-2020-01\tFebruary 05, 2020\n    Announcement SEL-2019-09\tDecember 04, 2019\n    Announcement SEL-2019-08\tOctober 02, 2019\n    B3-6-06, Qualifying Impact of Other Real Estate Owned (06/30/2015)\n    a copy of the formal, executed assumption agreement; and\n    a credit report indicating that consistent and timely payments were made for the assumed mortgage.",
+      "Recent Related Announcements\n    There are no recently issued Announcements related to this topic.",
+      "Recent Related Announcements\n    The table below provides references to recently issued Announcements that are related to this topic.",
+      "Announcements\tIssue Date\n    Announcement SEL-2023-03\tApril 05, 2023"
+    ],
+    "document_count": 1,
+    "created_date": "2025-07-15T11:30:53.091047"
+  },
+  "14": {
+    "topic_id": 14,
+    "label": "mortgage rates have_the housing market_volatility this quarter",
+    "keywords": [
+      "mortgage rates have",
+      "the housing market",
+      "volatility this quarter",
+      "mortgage rates",
+      "rate mortgage rates",
+      "quarter interest rates",
+      "rates have been",
+      "the federal reserve",
+      "the stock market",
+      "down inflation remains"
+    ],
+    "representative_docs": [
+      "The stock market experienced significant volatility this quarter.",
+      "Interest rates have been raised by the Federal Reserve.",
+      "The housing market shows signs of cooling down.",
+      "Inflation remains above the central bank's target rate.",
+      "Mortgage rates have reached their highest level in years."
+    ],
+    "document_count": 1,
+    "created_date": "2025-07-15T11:31:15.514409"
+  },
+  "15": {
+    "topic_id": 15,
+    "label": "cryptocurrency adoption continues_cryptocurrency adoption_dominate the cryptocurrency",
+    "keywords": [
+      "cryptocurrency adoption continues",
+      "cryptocurrency adoption",
+      "dominate the cryptocurrency",
+      "ethereum dominate the",
+      "the cryptocurrency market",
+      "and ethereum dominate",
+      "cryptocurrency market",
+      "cryptocurrency",
+      "the cryptocurrency",
+      "revolutionizing financial transactions"
+    ],
+    "representative_docs": [
+      "Cryptocurrency adoption continues to grow among institutional investors.",
+      "Digital payment systems are revolutionizing financial transactions.",
+      "Bitcoin and Ethereum dominate the cryptocurrency market."
+    ],
+    "document_count": 1,
+    "created_date": "2025-07-15T11:31:15.515523"
+  }
+}
