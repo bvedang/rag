@@ -8,3 +8,10 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Environments files
+.env
+
+
+# Rag-Indexs
+.ragatouille
